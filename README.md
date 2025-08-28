@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nextintechhub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&custom_title=Coding%20!" height="160" alt="languages graph"  />
 </div>
 
-
+<p>          </p>
 
 <div align="center">
   <a href="https://www.youtube.com/@nextinverse" target="_blank">
@@ -21,7 +21,7 @@
   </a>
 </div>
 
-
+<p>          </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 </div>
 
-
+<p>          </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
@@ -49,7 +49,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
-
+<p>          </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -63,7 +63,7 @@
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
-
+<p>          </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
@@ -77,7 +77,7 @@
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
 
-
+<p>          </p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -91,7 +91,7 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
 </div>
 
-
+<p>          </p>
 
 <br clear="both">
 
